@@ -8,5 +8,16 @@
     padding: 20px; 
 }
 #box1{
-    justify-content:space-evenly
+    justify-content:space-evenly;
+    background: lightgoldenrodyellow
+}
+#box2, #box3, #box4{
+    justify-content:center;
+}
+#box3{
+    background:rgb(218, 246, 245)
+}
+
+#innerbox4{
+    background:rgb(244, 214, 237)
 }
