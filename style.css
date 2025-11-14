@@ -4,20 +4,20 @@
     padding: 20px; 
 }
 .item{
-    border: 2px solid lightblue;
+    border: 2px solid rgba(47, 47, 46, 0.58);
     padding: 20px; 
 }
 #box1{
     justify-content:space-evenly;
-    background: lightgoldenrodyellow
+    background: rgb(227, 204, 250)
 }
 #box2, #box3, #box4{
     justify-content:center;
 }
 #box3{
-    background:rgb(218, 246, 245)
+    background:rgb(253, 192, 255)
 }
 
 #innerbox4{
-    background:rgb(244, 214, 237)
+    background:rgb(239, 211, 254)
 }
